@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "My Avatar #1",
+  "image": "https://arai-12.github.io/otherside-assets-BOSO/images/1.jpg",
+  "mml": "https://arai-12.github.io/otherside-assets-BOSO/mml/1.mml",
+  "attributes": [
+    {
+      "trait_type": "head",
+      "value": "classic"
+    },
+    {
+      "trait_type": "color",
+      "value": "purple"
+    }
+  ]
+}
